@@ -1873,7 +1873,7 @@ const fetchData = async () => {
           }
           </div>
           <div>
-            Made by Talib
+            Made by Talib❤️
           </div>
         </div>
   );
